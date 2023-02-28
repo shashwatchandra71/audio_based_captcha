@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+div {
+    display: inline-block;
+}
+button {
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+.p{
+    color: white ;
+}
